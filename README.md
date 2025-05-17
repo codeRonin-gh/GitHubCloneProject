@@ -1,3 +1,3 @@
 This is the README for the merge conflict exercise.
-Modification in main branch
+"Modification in main branch."
 
