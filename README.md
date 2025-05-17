@@ -1,1 +1,1 @@
-This is the description of my repo
+This is the README for the merge conflict exercise.
